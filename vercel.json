@@ -1,5 +1,8 @@
 {
-    "rewrites" : [
-        { "source": "/", "destination": "/Level1.html"}
+    "rewrites": [
+        {
+            "source": "/",
+            "destination": "/index.html"
+        }
     ]
 }
